@@ -1,19 +1,28 @@
 # FlowDesk
 
-FlowDesk is a modern multi-page SaaS marketing website built using React and Vite.
+FlowDesk is a modern multi-page SaaS landing page built with React and Vite. It helps teams manage projects, collaborate efficiently, and improve productivity through a clean and responsive interface.
 
-## Features
+## 🚀 Live Demo
+
+https://flowdesk-plum.vercel.app
+
+## 📂 GitHub Repository
+
+https://github.com/Sacchu-1206/flowdesk
+
+## ✨ Features
 
 - Responsive Design
 - SEO Optimized
-- React Router
+- React Router Navigation
 - Reusable Components
-- Accessible HTML
+- Semantic HTML
+- Accessible Design
 - Product Page
 - Pricing Page
 - Contact Page
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - React
 - Vite
@@ -22,26 +31,29 @@ FlowDesk is a modern multi-page SaaS marketing website built using React and Vit
 - Lucide React
 - CSS3
 
-## Pages
+## 📄 Pages
 
 - Home
 - Product
 - Pricing
 - Contact
 
-## Installation
+## ⚙️ Installation
 
+```bash
 npm install
-
 npm run dev
+```
 
-## Build
+## 📦 Build
 
+```bash
 npm run build
+```
 
-## Deployment
+## 🚀 Deployment
 
-Vercel
+Deployed on Vercel
 
 ---
 
