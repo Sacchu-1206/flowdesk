@@ -37,23 +37,23 @@ function Home() {
           content="Project Management, SaaS, Team Collaboration, FlowDesk"
         />
 
-        <meta property="og:title" content="FlowDesk" />
+        <meta property="og:title" content="FlowDesk | Project Management Software" />
 
         <meta
           property="og:description"
-          content="Modern Project Management Platform"
+          content="Modern SaaS platform for project management, collaboration, and productivity."
         />
 
         <meta property="og:type" content="website" />
 
         <meta
-          property="og:image"
-          content="https://your-domain.vercel.app/dashboard.png"
+          property="og:url"
+          content="https://flowdesk-plum.vercel.app"
         />
 
         <meta
-          property="og:url"
-          content="https://your-domain.vercel.app/"
+          property="og:image"
+          content="https://flowdesk-plum.vercel.app/dashboard.png"
         />
 
         <script type="application/ld+json">
